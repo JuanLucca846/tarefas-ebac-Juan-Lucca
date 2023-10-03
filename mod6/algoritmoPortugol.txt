@@ -1,0 +1,10 @@
+INICIO
+	1. Levantar da cama;
+	2. Se o rosto estiver lavado;
+		1. Tomar café da manhã;
+		2. Ir treinar;
+	3. Se o rosto não estiver lavado;
+		1. Lavar o rosto;
+		2. Escovar os dentes;
+		3. Pentear o cabelo;
+FIM
